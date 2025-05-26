@@ -1,4 +1,4 @@
-package victor.view;
+package view;
 
 import control.ConsultaCEP;
 import models.Endereco;
